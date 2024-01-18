@@ -1,5 +1,5 @@
 <h3 align="center">Minecraft & Discord Bot Developer And Video editor</h3>
-- 🔧 MC Plugin [Project. APPLE](https://discord.gg/apple)
+- 🔧 MC Plugin **APPLE SERVER**
 
 
 
